@@ -1,6 +1,6 @@
 package studentgradecalculator;
 import java.util.*;
-public class calculator {
+public class StdgradeCalculator {
 
 	public static void main(String[] args)
 	{
